@@ -1,0 +1,9 @@
+h3{font-size: 15px; color: rgb(98, 107, 102);}
+h2{color: rgb(70, 87, 42);}
+.center{text-align: center;}
+.normal{font-size: 15px; color: rgb(151, 160, 155); font-weight: normal;}
+.underline{text-decoration: underline; font-weight: normal;}
+.tabpage{font-size: 18px; color: rgb(98, 107, 102); text-align: center; font-weight: normal;}
+.normalbold{font-size: 15px; color: rgb(98, 107, 102); font-weight: bolder;}
+.normaldark{font-size: 18px; color: rgb(75, 78, 77); font-weight: normal;}
+.box{padding: 20px; margin-left: 105px; border-radius: 3px darkolivegreen;}
